@@ -1,5 +1,4 @@
 User-agent: *
 Allow: /
 
-# 公開URLが決まったら下のURLを書き換える
-Sitemap: https://YOUR-NAME.github.io/kotonoha-pro/sitemap.xml
+Sitemap: https://mirato-x.github.io/kotonoha-pro/sitemap.xml
