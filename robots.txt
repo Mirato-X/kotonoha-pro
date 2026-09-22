@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mirato-x.github.io/kotonoha-pro/sitemap.xml
